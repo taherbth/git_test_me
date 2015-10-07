@@ -12,4 +12,9 @@ hej1!!! this is just an example
 
 
 Hola hola hola
+<<<<<<< HEAD
+>>>>>>> ladder
+=======
+
+Ayda Moni
 >>>>>>> ladder
